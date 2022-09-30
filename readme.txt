@@ -1,0 +1,2 @@
+# 在Touchdesigner中通过指令的方式，创建随机视觉图形的一种思路。实验还在进行中，欢迎共同学习！
+# It is an idea to create random visual graphics by means of instructions in Touchdesigner. The experiment is still in progress. Welcome to learn together!
